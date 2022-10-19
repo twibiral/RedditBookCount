@@ -1,5 +1,7 @@
-./data/ol_dump_*
-./keys      # Keys for the reddit API
+/data/ol_dump_*
+/keys
+# Keys for the reddit API
+
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,pycharm+iml,pycharm+all,pycharm,jupyternotebooks,visualstudio,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,pycharm+iml,pycharm+all,pycharm,jupyternotebooks,visualstudio,visualstudiocode
