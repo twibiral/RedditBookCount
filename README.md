@@ -120,35 +120,35 @@ The ranking is based on all posts posted before 2022-09-31 (546,219 posts of whi
 ## How It Works
 ### Stage 1 - Prepare Books
 
-![](Stage_1-BooksPreparation.ipynb)
+[Stage_1-BooksPreparation.ipynb](Stage_1-BooksPreparation.ipynb)
 
 Analyze the book dump from OpenLibrary and remove all duplicates and ambivalent book titles.
 
 
 ### Stage 2 - Find the IDs of all Posts that were posted in the Subreddit
 
-![](Stage_2-ScrapeAllPostIDs.ipynb)
+[Stage_2-ScrapeAllPostIDs.ipynb](Stage_2-ScrapeAllPostIDs.ipynb)
 
 Download the ID of every post that was posted in the subreddit via the PRAW API.
 
 
 ### Stage 3 - Download all Posts
 
-![](Stage_3-DownloadAndPreparePosts.ipynb)
+[Stage_3-DownloadAndPreparePosts.ipynb](Stage_3-DownloadAndPreparePosts.ipynb)
 
 Use the previously collected IDs to download the post texts. All posts marked as deleted or removed are discarded.
 
 
 ### Stage 4 - Count how often the Book Titles occur in the Posts
 
-![](Stage_4-CountBookTitlesInPosts.ipynb)
+[Stage_4-CountBookTitlesInPosts.ipynb](Stage_4-CountBookTitlesInPosts.ipynb)
 
 Generate a regular expression from the book titles and count the largest non-overlapping occurrences for each book title.
 
 
 ### Stage 5 - Clean the resulting Book Counts
 
-![](Stage_5-CleanUpBookRanking.ipynb)
+[Stage_5-CleanUpBookRanking.ipynb](Stage_5-CleanUpBookRanking.ipynb)
 
 There are many book titles that cannot be uniquely identified as book titles (e.g. 'It' by Stephen King) that have to be removed.
 
@@ -157,6 +157,6 @@ The final book ranking is based on the cleaned ranking.
 
 ### Stage 6 - Generate Graphics
 
-![](Stage_6-CreateGraphics.ipynb)
+[Stage_6-CreateGraphics.ipynb](Stage_6-CreateGraphics.ipynb)
 
 Use the collected data to generate a few plots.
