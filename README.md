@@ -8,7 +8,7 @@ The ranking is based on all posts posted before 2022-09-31 (546,219 posts of whi
 ![](Graphics/Top-10.png)
 ![](Graphics/Top11-20.png)
 
-</details>
+<details>
 <summary>Click to view the top 100 most often occurred books</summary>
 
 |     | Title                                |   Occurrences |
