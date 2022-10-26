@@ -159,4 +159,4 @@ The final book ranking is based on the cleaned ranking.
 
 [Stage_6-CreateGraphics.ipynb](Stage_6-CreateGraphics.ipynb)
 
-Use the collected data to generate a few plots.
+Use the collected data to generate a few plots and automatically update the ranking in this README.md.
