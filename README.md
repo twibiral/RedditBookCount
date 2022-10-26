@@ -1,4 +1,4 @@
-# r/books Book Ranking
+# Book Ranking for r/books
 
 I analyzed how often book titles occur in the subreddit [r/books](https://reddit.com/r/books).
 The ranking is based on all posts posted before 2022-09-31 (546,219 posts of which 289,581 posts were already removed or deleted).
