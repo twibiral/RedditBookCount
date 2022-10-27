@@ -13,106 +13,106 @@ The ranking is based on all posts posted before 2022-09-31 (546,219 posts of whi
 
 |     | Title                                |   Occurrences |
 |----:|:-------------------------------------|--------------:|
-|   1 | Dune                                 |          2306 |
-|   2 | 1984                                 |          2229 |
-|   3 | The Hunger Games                     |          1176 |
-|   4 | Infinite jest                        |          1045 |
-|   5 | The Hobbit                           |           999 |
-|   6 | Catcher in the Rye                   |           882 |
-|   7 | Brave New World                      |           866 |
-|   8 | Ender's Game                         |           788 |
-|   9 | The Great Gatsby                     |           778 |
-|  10 | Crime and Punishment                 |           742 |
-|  11 | House of Leaves                      |           719 |
-|  12 | The Count of Monte Cristo            |           709 |
-|  13 | To Kill a Mockingbird                |           708 |
-|  14 | East of Eden                         |           708 |
-|  15 | Catch-22                             |           684 |
-|  16 | A Song of Ice and Fire               |           626 |
-|  17 | Fahrenheit 451                       |           613 |
-|  18 | Brothers Karamazov                   |           602 |
-|  19 | Ready Player One                     |           591 |
-|  20 | The dark tower                       |           584 |
+|   1 | Dune                                 |          2303 |
+|   2 | 1984                                 |          2228 |
+|   3 | The Hunger Games                     |          1173 |
+|   4 | The dark tower                       |          1064 |
+|   5 | Infinite jest                        |          1045 |
+|   6 | The Hobbit                           |           992 |
+|   7 | Catcher in the Rye                   |           882 |
+|   8 | Brave New World                      |           864 |
+|   9 | Ender's Game                         |           787 |
+|  10 | The Great Gatsby                     |           777 |
+|  11 | Crime and Punishment                 |           741 |
+|  12 | House of Leaves                      |           719 |
+|  13 | East of Eden                         |           708 |
+|  14 | To Kill a Mockingbird                |           708 |
+|  15 | The Count of Monte Cristo            |           705 |
+|  16 | Catch-22                             |           681 |
+|  17 | A Song of Ice and Fire               |           624 |
+|  18 | Fahrenheit 451                       |           606 |
+|  19 | Brothers Karamazov                   |           601 |
+|  20 | Ready Player One                     |           591 |
 |  21 | The hitchhiker's guide to the galaxy |           546 |
 |  22 | Animal Farm                          |           538 |
-|  23 | Pride and Prejudice                  |           523 |
-|  24 | American Gods                        |           522 |
-|  25 | Slaughterhouse-Five                  |           500 |
-|  26 | The Odyssey                          |           495 |
-|  27 | American Psycho                      |           490 |
-|  28 | Dark Towers                          |           483 |
-|  29 | The Name of the Wind                 |           459 |
-|  30 | Atlas Shrugged                       |           454 |
-|  31 | Misery                               |           447 |
-|  32 | A Little Life                        |           438 |
-|  33 | The Alchemist                        |           428 |
-|  34 | The Handmaid's Tale                  |           416 |
-|  35 | The Witcher                          |           403 |
-|  36 | 11/22/63                             |           403 |
-|  37 | Gravity's Rainbow                    |           389 |
-|  38 | Fight club                           |           388 |
-|  39 | 50 Shades of Grey                    |           387 |
-|  40 | Lord of the Flies                    |           377 |
-|  41 | The magician                         |           366 |
-|  42 | The Grapes of Wrath                  |           356 |
-|  43 | Neuromancer                          |           350 |
-|  44 | Kafka on the Shore                   |           347 |
-|  45 | Wuthering Heights                    |           337 |
-|  46 | Flowers for Algernon                 |           336 |
-|  47 | Gone Girl                            |           336 |
-|  48 | The secret history                   |           335 |
-|  49 | 1Q84                                 |           333 |
-|  50 | Gunslinger                           |           329 |
-|  51 | A Clockwork Orange                   |           324 |
-|  52 | Of Mice and Men                      |           321 |
-|  53 | Norwegian wood                       |           319 |
-|  54 | Cat's Cradle                         |           312 |
-|  55 | Jurassic Park                        |           308 |
-|  56 | Captivate                            |           307 |
-|  57 | Divergent                            |           298 |
-|  58 | One Hundred Years of Solitude        |           296 |
-|  59 | The inferno                          |           290 |
-|  60 | The Stormlight Archive               |           287 |
-|  61 | His Dark Materials                   |           280 |
-|  62 | Cloud Atlas                          |           279 |
-|  63 | Flashback                            |           278 |
-|  64 | Les Misérables                       |           276 |
-|  65 | The Way of Kings                     |           265 |
-|  66 | The Book Thief                       |           262 |
-|  67 | World War Z                          |           258 |
-|  68 | The old man and the sea              |           253 |
-|  69 | Project Hail Mary                    |           247 |
-|  70 | Kite Runner                          |           246 |
-|  71 | The Picture of Dorian Gray           |           245 |
-|  72 | Heart of Darkness                    |           243 |
-|  73 | Red Rising                           |           242 |
-|  74 | The Goldfinch                        |           237 |
-|  75 | Salem's Lot                          |           236 |
-|  76 | Never let me go                      |           234 |
-|  77 | The Silmarillion                     |           232 |
-|  78 | The Song of Achilles                 |           230 |
-|  79 | The Fountainhead                     |           226 |
-|  80 | Snow Crash                           |           222 |
-|  81 | And Then There Were None             |           221 |
-|  82 | Do Androids Dream of Electric Sheep? |           219 |
-|  83 | Normal People                        |           215 |
-|  84 | Good Omens                           |           215 |
-|  85 | The Bell Jar                         |           214 |
-|  86 | The Fault in Our Stars               |           209 |
-|  87 | Wind-Up Bird Chronicle               |           208 |
-|  88 | Watership Down                       |           205 |
-|  89 | Girl With the Dragon Tattoo          |           204 |
-|  90 | Little Women                         |           204 |
-|  91 | The Maze Runner                      |           203 |
-|  92 | The Divine Comedy                    |           202 |
-|  93 | The Little Prince                    |           199 |
-|  94 | The Godfather                        |           199 |
-|  95 | The Human Condition                  |           195 |
-|  96 | A Tale of Two Cities                 |           191 |
-|  97 | The Sound and the Fury               |           189 |
-|  98 | For Whom the Bell Tolls              |           188 |
-|  99 | The haunting of Hill House           |           188 |
-| 100 | A Farewell to Arms                   |           187 |
+|  23 | American Gods                        |           520 |
+|  24 | Pride and Prejudice                  |           520 |
+|  25 | Slaughterhouse-Five                  |           499 |
+|  26 | The Odyssey                          |           494 |
+|  27 | American Psycho                      |           489 |
+|  28 | The Name of the Wind                 |           458 |
+|  29 | Atlas Shrugged                       |           451 |
+|  30 | Misery                               |           447 |
+|  31 | A Little Life                        |           438 |
+|  32 | The Alchemist                        |           424 |
+|  33 | The Handmaid's Tale                  |           415 |
+|  34 | The Witcher                          |           401 |
+|  35 | 11/22/63                             |           400 |
+|  36 | Gravity's Rainbow                    |           389 |
+|  37 | 50 Shades of Grey                    |           387 |
+|  38 | Fight club                           |           386 |
+|  39 | Lord of the Flies                    |           377 |
+|  40 | The Grapes of Wrath                  |           356 |
+|  41 | Neuromancer                          |           350 |
+|  42 | Kafka on the Shore                   |           346 |
+|  43 | Wuthering Heights                    |           335 |
+|  44 | The secret history                   |           335 |
+|  45 | Gone Girl                            |           335 |
+|  46 | Flowers for Algernon                 |           334 |
+|  47 | 1Q84                                 |           332 |
+|  48 | Gunslinger                           |           329 |
+|  49 | A Clockwork Orange                   |           324 |
+|  50 | Of Mice and Men                      |           320 |
+|  51 | Norwegian wood                       |           318 |
+|  52 | Cat's Cradle                         |           312 |
+|  53 | Jurassic Park                        |           305 |
+|  54 | Divergent                            |           298 |
+|  55 | One Hundred Years of Solitude        |           294 |
+|  56 | The inferno                          |           290 |
+|  57 | The Stormlight Archive               |           287 |
+|  58 | His Dark Materials                   |           280 |
+|  59 | Cloud Atlas                          |           278 |
+|  60 | Les Misérables                       |           276 |
+|  61 | The Way of Kings                     |           264 |
+|  62 | The Book Thief                       |           261 |
+|  63 | World War Z                          |           259 |
+|  64 | The old man and the sea              |           253 |
+|  65 | The Picture of Dorian Gray           |           245 |
+|  66 | Kite Runner                          |           244 |
+|  67 | Heart of Darkness                    |           243 |
+|  68 | Project Hail Mary                    |           241 |
+|  69 | Red Rising                           |           240 |
+|  70 | Salem's Lot                          |           236 |
+|  71 | The Goldfinch                        |           236 |
+|  72 | Never let me go                      |           234 |
+|  73 | The Silmarillion                     |           230 |
+|  74 | The Song of Achilles                 |           229 |
+|  75 | The Fountainhead                     |           226 |
+|  76 | Snow Crash                           |           222 |
+|  77 | And Then There Were None             |           221 |
+|  78 | Do Androids Dream of Electric Sheep? |           218 |
+|  79 | Good Omens                           |           215 |
+|  80 | Normal People                        |           213 |
+|  81 | The Bell Jar                         |           210 |
+|  82 | The Fault in Our Stars               |           209 |
+|  83 | Wind-Up Bird Chronicle               |           207 |
+|  84 | Watership Down                       |           205 |
+|  85 | Girl With the Dragon Tattoo          |           204 |
+|  86 | Little Women                         |           204 |
+|  87 | The Maze Runner                      |           203 |
+|  88 | The Divine Comedy                    |           202 |
+|  89 | The Little Prince                    |           199 |
+|  90 | The Godfather                        |           199 |
+|  91 | The Human Condition                  |           194 |
+|  92 | A Tale of Two Cities                 |           191 |
+|  93 | The Sound and the Fury               |           189 |
+|  94 | Watchmen                             |           187 |
+|  95 | A Farewell to Arms                   |           187 |
+|  96 | The haunting of Hill House           |           186 |
+|  97 | For Whom the Bell Tolls              |           186 |
+|  98 | Finnegans wake                       |           186 |
+|  99 | The Pillars of the Earth             |           184 |
+| 100 | The Perks of Being a Wallflower      |           182 |
 
 </details>
 

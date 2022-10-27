@@ -1,101 +1,101 @@
 ,Title,Normalized Title,Occurrences
-0,Dune,dune,2306
-1,1984,1984,2229
-2,The Hunger Games,hungergames,1176
-3,Infinite jest,infinitejest,1045
-4,The Hobbit,hobbit,999
-5,Catcher in the Rye,catcherintherye,882
-6,Brave New World,bravenewworld,866
-7,Ender's Game,endersgame,788
-8,The Great Gatsby,greatgatsby,778
-9,Crime and Punishment,crimeandpunishment,742
-10,House of Leaves,houseofleaves,719
-11,The Count of Monte Cristo,countofmontecristo,709
-12,To Kill a Mockingbird,tokillamockingbird,708
-13,East of Eden,eastofeden,708
-14,Catch-22,catch22,684
-15,A Song of Ice and Fire,songoficeandfire,626
-16,Fahrenheit 451,fahrenheit451,613
-17,Brothers Karamazov,brotherskaramazov,602
-18,Ready Player One,readyplayerone,591
-19,The dark tower,darktower,584
+0,Dune,dune,2303
+1,1984,1984,2228
+2,The Hunger Games,hungergames,1173
+3,The dark tower,darktower,1064
+4,Infinite jest,infinitejest,1045
+5,The Hobbit,hobbit,992
+6,Catcher in the Rye,catcherintherye,882
+7,Brave New World,bravenewworld,864
+8,Ender's Game,endersgame,787
+9,The Great Gatsby,greatgatsby,777
+10,Crime and Punishment,crimeandpunishment,741
+11,House of Leaves,houseofleaves,719
+12,East of Eden,eastofeden,708
+13,To Kill a Mockingbird,tokillamockingbird,708
+14,The Count of Monte Cristo,countofmontecristo,705
+15,Catch-22,catch22,681
+16,A Song of Ice and Fire,songoficeandfire,624
+17,Fahrenheit 451,fahrenheit451,606
+18,Brothers Karamazov,brotherskaramazov,601
+19,Ready Player One,readyplayerone,591
 20,The hitchhiker's guide to the galaxy,hitchhikersguidetothegalaxy,546
 21,Animal Farm,animalfarm,538
-22,Pride and Prejudice,prideandprejudice,523
-23,American Gods,americangods,522
-24,Slaughterhouse-Five,slaughterhousefive,500
-25,The Odyssey,odyssey,495
-26,American Psycho,americanpsycho,490
-27,Dark Towers,darktowers,483
-28,The Name of the Wind,nameofthewind,459
-29,Atlas Shrugged,atlasshrugged,454
-30,Misery,misery,447
-31,A Little Life,littlelife,438
-32,The Alchemist,alchemist,428
-33,The Handmaid's Tale,handmaidstale,416
-34,The Witcher,witcher,403
-35,11/22/63,112263,403
-36,Gravity's Rainbow,gravitysrainbow,389
-37,Fight club,fightclub,388
-38,50 Shades of Grey,50shadesofgrey,387
-39,Lord of the Flies,lordoftheflies,377
-40,The magician,magician,366
-41,The Grapes of Wrath,grapesofwrath,356
-42,Neuromancer,neuromancer,350
-43,Kafka on the Shore,kafkaontheshore,347
-44,Wuthering Heights,wutheringheights,337
-45,Flowers for Algernon,flowersforalgernon,336
-46,Gone Girl,gonegirl,336
-47,The secret history,secrethistory,335
-48,1Q84,1q84,333
-49,Gunslinger,gunslinger,329
-50,A Clockwork Orange,clockworkorange,324
-51,Of Mice and Men,ofmiceandmen,321
-52,Norwegian wood,norwegianwood,319
-53,Cat's Cradle,catscradle,312
-54,Jurassic Park,jurassicpark,308
-55,Captivate,captivate,307
-56,Divergent,divergent,298
-57,One Hundred Years of Solitude,onehundredyearsofsolitude,296
-58,The inferno,inferno,290
-59,The Stormlight Archive,stormlightarchive,287
-60,His Dark Materials,hisdarkmaterials,280
-61,Cloud Atlas,cloudatlas,279
-62,Flashback,flashback,278
-63,Les Misérables,lesmiserables,276
-64,The Way of Kings,wayofkings,265
-65,The Book Thief,bookthief,262
-66,World War Z,worldwarz,258
-67,The old man and the sea,oldmanandthesea,253
-68,Project Hail Mary,projecthailmary,247
-69,Kite Runner,kiterunner,246
-70,The Picture of Dorian Gray,pictureofdoriangray,245
-71,Heart of Darkness,heartofdarkness,243
-72,Red Rising,redrising,242
-73,The Goldfinch,goldfinch,237
-74,Salem's Lot,salemslot,236
-75,Never let me go,neverletmego,234
-76,The Silmarillion,silmarillion,232
-77,The Song of Achilles,songofachilles,230
-78,The Fountainhead,fountainhead,226
-79,Snow Crash,snowcrash,222
-80,And Then There Were None,andthentherewerenone,221
-81,Do Androids Dream of Electric Sheep?,doandroidsdreamofelectricsheep,219
-82,Normal People,normalpeople,215
-83,Good Omens,goodomens,215
-84,The Bell Jar,belljar,214
-85,The Fault in Our Stars,faultinourstars,209
-86,Wind-Up Bird Chronicle,windupbirdchronicle,208
-87,Watership Down,watershipdown,205
-88,Girl With the Dragon Tattoo,girlwiththedragontattoo,204
-89,Little Women,littlewomen,204
-90,The Maze Runner,mazerunner,203
-91,The Divine Comedy,divinecomedy,202
-92,The Little Prince,littleprince,199
-93,The Godfather,godfather,199
-94,The Human Condition,humancondition,195
-95,A Tale of Two Cities,taleoftwocities,191
-96,The Sound and the Fury,soundandthefury,189
-97,For Whom the Bell Tolls,forwhomthebelltolls,188
-98,The haunting of Hill House,hauntingofhillhouse,188
-99,A Farewell to Arms,farewelltoarms,187
+22,American Gods,americangods,520
+23,Pride and Prejudice,prideandprejudice,520
+24,Slaughterhouse-Five,slaughterhousefive,499
+25,The Odyssey,odyssey,494
+26,American Psycho,americanpsycho,489
+27,The Name of the Wind,nameofthewind,458
+28,Atlas Shrugged,atlasshrugged,451
+29,Misery,misery,447
+30,A Little Life,littlelife,438
+31,The Alchemist,alchemist,424
+32,The Handmaid's Tale,handmaidstale,415
+33,The Witcher,witcher,401
+34,11/22/63,112263,400
+35,Gravity's Rainbow,gravitysrainbow,389
+36,50 Shades of Grey,50shadesofgrey,387
+37,Fight club,fightclub,386
+38,Lord of the Flies,lordoftheflies,377
+39,The Grapes of Wrath,grapesofwrath,356
+40,Neuromancer,neuromancer,350
+41,Kafka on the Shore,kafkaontheshore,346
+42,Wuthering Heights,wutheringheights,335
+43,The secret history,secrethistory,335
+44,Gone Girl,gonegirl,335
+45,Flowers for Algernon,flowersforalgernon,334
+46,1Q84,1q84,332
+47,Gunslinger,gunslinger,329
+48,A Clockwork Orange,clockworkorange,324
+49,Of Mice and Men,ofmiceandmen,320
+50,Norwegian wood,norwegianwood,318
+51,Cat's Cradle,catscradle,312
+52,Jurassic Park,jurassicpark,305
+53,Divergent,divergent,298
+54,One Hundred Years of Solitude,onehundredyearsofsolitude,294
+55,The inferno,inferno,290
+56,The Stormlight Archive,stormlightarchive,287
+57,His Dark Materials,hisdarkmaterials,280
+58,Cloud Atlas,cloudatlas,278
+59,Les Misérables,lesmiserables,276
+60,The Way of Kings,wayofkings,264
+61,The Book Thief,bookthief,261
+62,World War Z,worldwarz,259
+63,The old man and the sea,oldmanandthesea,253
+64,The Picture of Dorian Gray,pictureofdoriangray,245
+65,Kite Runner,kiterunner,244
+66,Heart of Darkness,heartofdarkness,243
+67,Project Hail Mary,projecthailmary,241
+68,Red Rising,redrising,240
+69,Salem's Lot,salemslot,236
+70,The Goldfinch,goldfinch,236
+71,Never let me go,neverletmego,234
+72,The Silmarillion,silmarillion,230
+73,The Song of Achilles,songofachilles,229
+74,The Fountainhead,fountainhead,226
+75,Snow Crash,snowcrash,222
+76,And Then There Were None,andthentherewerenone,221
+77,Do Androids Dream of Electric Sheep?,doandroidsdreamofelectricsheep,218
+78,Good Omens,goodomens,215
+79,Normal People,normalpeople,213
+80,The Bell Jar,belljar,210
+81,The Fault in Our Stars,faultinourstars,209
+82,Wind-Up Bird Chronicle,windupbirdchronicle,207
+83,Watership Down,watershipdown,205
+84,Girl With the Dragon Tattoo,girlwiththedragontattoo,204
+85,Little Women,littlewomen,204
+86,The Maze Runner,mazerunner,203
+87,The Divine Comedy,divinecomedy,202
+88,The Little Prince,littleprince,199
+89,The Godfather,godfather,199
+90,The Human Condition,humancondition,194
+91,A Tale of Two Cities,taleoftwocities,191
+92,The Sound and the Fury,soundandthefury,189
+93,Watchmen,watchmen,187
+94,A Farewell to Arms,farewelltoarms,187
+95,The haunting of Hill House,hauntingofhillhouse,186
+96,For Whom the Bell Tolls,forwhomthebelltolls,186
+97,Finnegans wake,finneganswake,186
+98,The Pillars of the Earth,pillarsoftheearth,184
+99,The Perks of Being a Wallflower,perksofbeingawallflower,182
